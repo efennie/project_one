@@ -8,16 +8,16 @@ Project Mission:
 
 Research Questions:
     1. Which cities love avocados the most?
-    2. Do states with higher income per capita buy more avocados?
+    2. Do states with higher income per capita buy more avocados? 2017-2019
 	3. Which type of avocado is the biggest source of revenue for suppliers?  
     4. Is there a time of year that sees a spike in revenue?
 	5. How has the average avocado price changed over time?  What is the predicted avocado price for 2021 based on our data?  
     6. Do different types of avocados have different price trends? 
 
 Data Sources:
-    https://www.kaggle.com/timmate/avocado-prices-2020
-    https://www.census.gov/data/developers/data-sets/acs-5year.html
-    
+    1. https://www.kaggle.com/timmate/avocado-prices-2020
+    2. https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
+
 Tasks:
     1. popularity of avocado, visual heatmap, 2015 to 2020, bar graph of volume per area
     2. line graph (x-values states, y-values income per capita and avocado revenue)
