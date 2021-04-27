@@ -210,7 +210,7 @@ Logan, UT-ID,2017,37356
 Longview, TX,2017,39884
 Longview, WA,2017,42904
 Los Angeles-Long Beach-Anaheim, CA,2017,61159
-Louisville/Jefferson County, KY-IN,2017,48038
+Louisville-Jefferson County, KY-IN,2017,48038
 Lubbock, TX,2017,40813
 Lynchburg, VA,2017,38948
 Macon-Bibb County, GA,2017,39589
@@ -244,7 +244,7 @@ Muskegon, MI,2017,36971
 Myrtle Beach-Conway-North Myrtle Beach, SC-NC,2017,37747
 Napa, CA,2017,70649
 Naples-Marco Island, FL,2017,89607
-Nashville-Davidson--Murfreesboro--Franklin, TN,2017,55729
+Nashville-Davidson-Murfreesboro-Franklin, TN,2017,55729
 New Bern, NC,2017,41850
 New Haven-Milford, CT,2017,53582
 New Orleans-Metairie, LA,2017,50015
@@ -318,7 +318,7 @@ Santa Fe, NM,2017,55063
 Santa Maria-Santa Barbara, CA,2017,59894
 Santa Rosa-Petaluma, CA,2017,60027
 Savannah, GA,2017,45103
-Scranton--Wilkes-Barre, PA,2017,43976
+Scranton-Wilkes-Barre, PA,2017,43976
 Seattle-Tacoma-Bellevue, WA,2017,69844
 Sebastian-Vero Beach, FL,2017,74267
 Sebring-Avon Park, FL,2017,33011
@@ -594,7 +594,7 @@ Logan, UT-ID,2018,39861
 Longview, TX,2018,41805
 Longview, WA,2018,44923
 Los Angeles-Long Beach-Anaheim, CA,2018,63886
-Louisville/Jefferson County, KY-IN,2018,50437
+Louisville-Jefferson County, KY-IN,2018,50437
 Lubbock, TX,2018,42854
 Lynchburg, VA,2018,40394
 Macon-Bibb County, GA,2018,40967
@@ -628,7 +628,7 @@ Muskegon, MI,2018,38289
 Myrtle Beach-Conway-North Myrtle Beach, SC-NC,2018,39355
 Napa, CA,2018,72043
 Naples-Marco Island, FL,2018,98303
-Nashville-Davidson--Murfreesboro--Franklin, TN,2018,58779
+Nashville-Davidson-Murfreesboro-Franklin, TN,2018,58779
 New Bern, NC,2018,43517
 New Haven-Milford, CT,2018,55779
 New Orleans-Metairie, LA,2018,52963
@@ -702,7 +702,7 @@ Santa Fe, NM,2018,58696
 Santa Maria-Santa Barbara, CA,2018,63314
 Santa Rosa-Petaluma, CA,2018,63397
 Savannah, GA,2018,47038
-Scranton--Wilkes-Barre, PA,2018,45993
+Scranton-Wilkes-Barre, PA,2018,45993
 Seattle-Tacoma-Bellevue, WA,2018,74815
 Sebastian-Vero Beach, FL,2018,79353
 Sebring-Avon Park, FL,2018,33548
@@ -978,7 +978,7 @@ Logan, UT-ID,2019,41370
 Longview, TX,2019,42953
 Longview, WA,2019,46503
 Los Angeles-Long Beach-Anaheim, CA,2019,66684
-Louisville/Jefferson County, KY-IN,2019,52134
+Louisville-Jefferson County, KY-IN,2019,52134
 Lubbock, TX,2019,44169
 Lynchburg, VA,2019,41265
 Macon-Bibb County, GA,2019,42191
@@ -1012,7 +1012,7 @@ Muskegon, MI,2019,39637
 Myrtle Beach-Conway-North Myrtle Beach, SC-NC,2019,40494
 Napa, CA,2019,75717
 Naples-Marco Island, FL,2019,99382
-Nashville-Davidson--Murfreesboro--Franklin, TN,2019,60680
+Nashville-Davidson-Murfreesboro-Franklin, TN,2019,60680
 New Bern, NC,2019,45788
 New Haven-Milford, CT,2019,57748
 New Orleans-Metairie, LA,2019,54363
@@ -1086,7 +1086,7 @@ Santa Fe, NM,2019,60276
 Santa Maria-Santa Barbara, CA,2019,66076
 Santa Rosa-Petaluma, CA,2019,66700
 Savannah, GA,2019,47869
-Scranton--Wilkes-Barre, PA,2019,47385
+Scranton-Wilkes-Barre, PA,2019,47385
 Seattle-Tacoma-Bellevue, WA,2019,78073
 Sebastian-Vero Beach, FL,2019,80818
 Sebring-Avon Park, FL,2019,34480
