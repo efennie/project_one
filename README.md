@@ -21,7 +21,7 @@ Data Sources:<br/>
 
 Tasks:<br/>
     1. popularity of avocado bar graph of volume purchased per city and popularity of avocado line graph with volume purchased per city and a line graph of population of those cities<br/>
-    2. line graph (x-values states, y-values income per capita and avocados purcahsed)<br/>
+    2. line graph (x-values states, y-values income per capita and avocados purchased)<br/>
     3. Three pie charts by type (value = revenue) for each year on one png <br/>
     4. bar chart (x-values months, y-values avocado revenue)<br/>
     5. scatter plot with linear regressions to predict 2021 average price <br/>
