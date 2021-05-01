@@ -3,7 +3,7 @@ When life gives you Avocados, make Guacamole
 
 Team Members: Arianne Toepfer, Bitty Fennie, Erica Smith
 
-Project Mission:
+Project Mission:<br/>
     Use avocado purchasing data to infer popularity and profitability by size and location. Determine the relationship between wealth and avocado popularity.
 
 Research Questions:<br/>
@@ -14,15 +14,15 @@ Research Questions:<br/>
 	5. How has the average avocado price changed over time?  What is the predicted avocado price for 2021 based on our data?<br/>  
     6. Do different types of avocados have different price trends? <br/>
 
-Data Sources:
-    1. https://www.kaggle.com/timmate/avocado-prices-2020
-    2. https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
-    3. https://www.kaggle.com/max-mind/world-cities-database
+Data Sources:<br/>
+    1. https://www.kaggle.com/timmate/avocado-prices-2020<br/>
+    2. https://www.bea.gov/data/income-saving personal-income-county-metro-and-other-areas<br/>
+    3. https://www.kaggle.com/max-mind/world-cities-database<br/>
 
-Tasks:
-    1. popularity of avocado bar graph of volume purchased per city and popularity of avocado line graph with volume purchased per city and a line graph of population of those cities
-    2. line graph (x-values states, y-values income per capita and avocados purcahsed)
-    3. Three pie charts by type (value = revenue) for each year on one png 
-    4. bar chart (x-values months, y-values avocado revenue)
-    5. scatter plot with linear regressions to predict 2021 average price 
-    6. facet (multiple lines on one) line graph (x-values = year, y-values = average price) for each type
+Tasks:<br/>
+    1. popularity of avocado bar graph of volume purchased per city and popularity of avocado line graph with volume purchased per city and a line graph of population of those cities<br/>
+    2. line graph (x-values states, y-values income per capita and avocados purcahsed)<br/>
+    3. Three pie charts by type (value = revenue) for each year on one png <br/>
+    4. bar chart (x-values months, y-values avocado revenue)<br/>
+    5. scatter plot with linear regressions to predict 2021 average price <br/>
+    6. facet (multiple lines on one) line graph (x-values = year, y-values = average price) for each type<br/>
