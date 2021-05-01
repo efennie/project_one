@@ -11,7 +11,7 @@ Research Questions:<br/>
     2. Do states with higher income per capita buy more avocados? 2017-2019<br/>
 	3. Which type of avocado is the biggest source of revenue for suppliers? <br/> 
     4. Is there a time of year that sees a spike in revenue?<br/>
-	5. How has the average avocado price changed over time?  What is the predicted avocado price for 2021 based on our data?<br/>  
+	5. How has the average avocado price changed over time?  What is the predicted avocado price for 2021 based on our data? 
     6. Do different types of avocados have different price trends?
 
 Data Sources:<br/>
