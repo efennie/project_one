@@ -25,4 +25,4 @@ Tasks:<br/>
     3. Three pie charts by type (value = revenue) for each year on one png <br/>
     4. bar chart (x-values months, y-values avocado revenue)<br/>
     5. scatter plot with linear regressions to predict 2021 average price <br/>
-    6. facet (multiple lines on one) line graph (x-values = year, y-values = average price) for each type<br/>
+    6. facet (multiple lines on one) line graph (x-values = year, y-values = average price) for each type
